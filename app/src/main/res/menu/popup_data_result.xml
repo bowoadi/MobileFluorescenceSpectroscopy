@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/open_csv_data_result"
+        android:title="Open CSV with..."
+        android:visible="true"
+        app:showAsAction="never|withText"/>
+
+    <item
+        android:id="@+id/cloud_saved_data_result"
+        android:title="Save to Cloud"
+        android:visible="true"
+        app:showAsAction="never|withText"/>
+
+    <item
+        android:id="@+id/delete_data_result"
+        android:title="Delete"
+        android:visible="true"
+        app:showAsAction="never|withText"/>
+</menu>

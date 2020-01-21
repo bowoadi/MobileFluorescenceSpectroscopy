@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009f58</color>
+    <color name="colorPrimaryTransparent">#b0004928</color>
+    <color name="colorPrimaryDark">#006b3b</color>
+    <color name="colorAccent">#009f58</color>
+    <color name="softRed">#ef2f2f</color>
+    <color name="softGrey">#707070</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="testing">#6102</color>
+    <color name="sidang">#ffffff</color>
+</resources>

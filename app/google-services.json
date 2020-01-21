@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "15405012914",
+    "firebase_url": "https://moflus-bf36a.firebaseio.com",
+    "project_id": "moflus-bf36a",
+    "storage_bucket": "moflus-bf36a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15405012914:android:5f19d32f667b618d",
+        "android_client_info": {
+          "package_name": "id.rwp.tugasakhir.mobileFluorescenceSpectroscopy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15405012914-37fuerl5n00emtosit5i9cs5o6d9lohp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.rwp.tugasakhir.mobileFluorescenceSpectroscopy",
+            "certificate_hash": "8b62990284203d4f7f77e321d66ab734d8166aff"
+          }
+        },
+        {
+          "client_id": "15405012914-dm9hspbb34vtibbfpr4n8of0lekp665v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb2EA5CD-ypVRW48TNfi0sTuDJ8BgF1mk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15405012914-dm9hspbb34vtibbfpr4n8of0lekp665v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

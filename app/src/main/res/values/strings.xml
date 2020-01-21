@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MoFluS</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <!--Title-->
+    <string name="title_detection_controller">Detection Controller</string>
+    <string name="title_login_controller">Login</string>
+    <string name="title_register_controller">Register</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_profile_controller">Profile</string>
+    <string name="title_activity_detection_controller">Detection</string>
+    <string name="title_activity_settings_controller">Settings</string>
+    <string name="title_activity_detailed_data_controller">Detailed Data</string>
+    <string name="title_activity_extended_controller">Extended</string>
+    <string name="title_activity_extended_detail_controller">Extended Detail</string>
+    <string name="title_activity_camera_controller">Camera</string>
+</resources>
